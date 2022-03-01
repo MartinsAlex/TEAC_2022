@@ -1,7 +1,7 @@
 # Technical and Economic Aspects of Cybersecurity Spring 2022
 ## HEC Lausanne
 
-COURSE OUTLINE
+COURSE OUTLINE:
 - Technical aspects
 - Introduction to computer security
 - Applied cryptography
